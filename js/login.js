@@ -22,7 +22,7 @@ function esconderErroSenha() {
 
 function enviar() {
     //impedir o envio do form
-    event.preventDefault();
+   // event.preventDefault();
 
     if ( INPUT_EMAIL.value === '' ) {
         ERRO_EMAIL.style.display = 'block';
