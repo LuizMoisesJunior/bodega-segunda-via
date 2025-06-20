@@ -5,8 +5,16 @@
       "nome": "Moises",
       "email": "moisesbdasilva3@email.com",
       "telefone": "(85) 9 1234-1234",
-      "foto": "Foto",
+      "foto": "",
       "endereco": "Rua das Flores, 2010"
+    },
+    {
+      "id": 2,
+      "nome": "Chiquin",
+      "email": "chiquin123@email.com.br",
+      "telefone": "(85) 9 1234-1234",
+      "foto": "img/Captura de tela de 2025-06-20 09-52-51.png",
+      "endereco": "Rua das tal, 2012"
     }
   ]
 }
